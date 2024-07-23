@@ -1,0 +1,21 @@
+{
+  "name": "injectables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Telerik Academy",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.2.2",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.6",
+    "@types/reflect-metadata": "^0.1.0",
+    "@types/typescript": "^2.0.0"
+  }
+}
